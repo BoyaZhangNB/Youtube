@@ -23,7 +23,7 @@ if (!fs.existsSync(DOWNLOAD_DIR)) {
 const downloadStatus = new Map();
 
 // YouTube API configuration
-const YOUTUBE_API_KEY = 'AIzaSyAnG7yvpHI3-1FK9n9GaJhRdcWVn0XO6-E'; // Replace with your API key
+const YOUTUBE_API_KEY = 'YOUR-API-KEY'; // Replace with your API key
 const YOUTUBE_API_BASE = 'https://www.googleapis.com/youtube/v3';
 
 // Search YouTube videos
