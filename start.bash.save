@@ -1,0 +1,2 @@
+osascript -e 'tell application "Terminal" to do script "cd /Users/zhangboya/Desktop/Youtube && npm start"'
+osas
